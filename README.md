@@ -53,7 +53,10 @@ I also work as a FreeLancer 🆓.
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumanemre3&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=dumanemre3&show_icons=true&theme=radical)
+
+
 <br />
 <br />
 
