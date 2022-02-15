@@ -1,10 +1,4 @@
-### 📩 Hi everyone, I'am Emre.
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<iframe src="https://giphy.com/embed/Jrf7sINanJ3KWLQQDe" width="480" height="432" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/protein-proteincenter-proteincenterfamily-Jrf7sINanJ3KWLQQDe">via GIPHY</a></p>
-
-<img align="right" alt="GIF" src="https://giphy.com/embed/Jrf7sINanJ3KWLQQDe" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
@@ -76,21 +70,3 @@ I also work as a FreeLancer 🆓.
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=dumanemre3&show_icons=true&theme=radical)
-
-
-<!--
-**dumanemre3/dumanemre3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
