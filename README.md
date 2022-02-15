@@ -27,7 +27,6 @@ I also work as a FreeLancer 🆓.
   <a href="https://github.com/dumanemre3" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" alt="dumanemre3" width="40" height="45"/> </a> 
 
 
-<br/>
 
 
 ## Technologies & Tools
