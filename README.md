@@ -21,14 +21,9 @@ I also work as a FreeLancer 🆓.
 
 [<img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 [<img align="left" height="40px" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" />][github]
-<p align="left">
+  <a href="https://instagram.com/dumanemre3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="zaferhuzmeli" height="40" width="45" /></a>
 <a href="https://linkedin.com/in/dumanemre3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary" height="35" width="45" /></a>  
-<a href="https://instagram.com/dumanemre3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="zaferhuzmeli" height="40" width="45" /></a>
-</p>
 
-<p align="left">
-<a href="https://twitter.com/Tanersyn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanersyn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taner-sayın-a30055187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanersyn" height="30" width="40" /></a>
 
 <br/>
 <br/>
