@@ -19,10 +19,8 @@ I also work as a FreeLancer 🆓.
 
 ## 📩 Connect with Me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="37px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="37px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
-[<img align="left" height="37px" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="37px" width="37px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" alt="linkedin | LinkedIn" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" height="35px" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 
 <br/>
 
