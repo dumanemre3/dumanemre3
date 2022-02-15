@@ -24,6 +24,11 @@ I also work as a FreeLancer 🆓.
 [<img align="left" height="35px" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][gmail]
 [<img align="left" height="35px" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][twitter]
 [<img align="left" height="35px" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][github]
+<p align="left">
+<a href="https://linkedin.com/in/zafer-huzmeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary" height="30" width="40" /></a>  
+<a href="https://instagram.com/zaferhuzmeli" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="zaferhuzmeli" height="30" width="40" /></a>
+  <a href="https://twitter.com/zaferhuzmeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zachary" height="30" width="40" /></a>
+</p>
 
 <p align="left">
 <a href="https://twitter.com/Tanersyn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanersyn" height="30" width="40" /></a>
