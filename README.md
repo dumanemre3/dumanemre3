@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi everyone,  👋
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
 
 <!--
 **dumanemre3/dumanemre3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
