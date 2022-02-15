@@ -54,7 +54,7 @@ I also work as a FreeLancer 🆓.
   [<img height="195em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumanemre3&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=dumanemre3&show_icons=true&theme=radical)](url)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=dumanemre3&show_icons=true&theme=radical)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumanemre3&show_icons=true&theme=radical&locale=en&layout=compact" width="40%" alt="dumanemre3" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dumanemre3&show_icons=true&theme=dark&locale=en" alt="dumanemre3" width="47%" /></p>
