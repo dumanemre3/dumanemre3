@@ -21,6 +21,13 @@ I also work as a FreeLancer 🆓.
 
 [<img align="left" alt="linkedin | LinkedIn" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="35px" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
+[<img align="left" height="35px" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][gmail]
+[<img align="left" height="35px" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][twitter]
+[<img align="left" height="35px" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][github]
+
+<p align="left">
+<a href="https://twitter.com/Tanersyn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanersyn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taner-sayın-a30055187/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanersyn" height="30" width="40" /></a>
 
 <br/>
 <br/>
@@ -48,13 +55,7 @@ I also work as a FreeLancer 🆓.
 
 [instagram]: https://www.instagram.com/dumanemre3
 [linkedin]: https://www.linkedin.com/in/dumanemre3/
-[medium]: https://demiribrahimtalha.medium.com/
-[gmail]: mailto:demiribrahimtalha@gmail.com
-[flutter]: https://flutter.dev/
-[vsCode]: https://code.visualstudio.com/
+[gmail]: mailto:dumanemre3@hotmail.com
 [git]: https://git-scm.com/
-[android]: https://www.android.com/
-[github]: https://github.com/IbrahimTalha0
-[python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
+[github]: https://github.com/dumanemre3
+
