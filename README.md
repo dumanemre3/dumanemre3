@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<iframe src="https://giphy.com/embed/Jrf7sINanJ3KWLQQDe" width="480" height="432" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/protein-proteincenter-proteincenterfamily-Jrf7sINanJ3KWLQQDe">via GIPHY</a></p>
+<img src="https://giphy.com/embed/Jrf7sINanJ3KWLQQDe" width="480" height="432" frameBorder="0" class="giphy-embed" allowFullScreen></><p><a href="https://giphy.com/gifs/protein-proteincenter-proteincenterfamily-Jrf7sINanJ3KWLQQDe">via GIPHY</a></p>
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
