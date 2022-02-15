@@ -1,6 +1,9 @@
 ### 📩 Hi everyone, I'am Emre.
 
 
+
+<iframe src="https://giphy.com/embed/Jrf7sINanJ3KWLQQDe" width="480" height="432" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/protein-proteincenter-proteincenterfamily-Jrf7sINanJ3KWLQQDe">via GIPHY</a></p>
+
 <img align="right" alt="GIF" src="https://giphy.com/embed/Jrf7sINanJ3KWLQQDe" width="500" height="320" />
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
