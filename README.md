@@ -41,7 +41,9 @@ I also work as a FreeLancer 🆓.
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwindcss" width="40" height="40"/></a> 
 
 </p><br>
+
 ##
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumanemre3&show_icons=true&theme=radical&locale=en&layout=compact" width="43%" alt="dumanemre3" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dumanemre3&show_icons=true&theme=radical" alt="dumanemre3" width="51.5%" /></p>
 
