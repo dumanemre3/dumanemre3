@@ -28,7 +28,7 @@ I also work as a FreeLancer 🆓.
 
 ## 🔧 Languages and Tools:
 
-<p align="left"> 
+<p align="right"> 
   <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="47" height="47"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="47" height="47"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="41" height="41"/> </a> 
