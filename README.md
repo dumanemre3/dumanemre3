@@ -19,13 +19,13 @@ I also work as a FreeLancer 🆓.
 
 ## Connect with Me:
 
-<img height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+<a height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 
-  <img href="https://instagram.com/dumanemre3" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="dumanemre3" height="40" width="45" /></a>
+  <a href="https://instagram.com/dumanemre3" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="dumanemre3" height="40" width="45" /></a>
   
-  <img href="https://linkedin.com/in/dumanemre3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary" height="35" width="45" /></a>  
+  <a href="https://linkedin.com/in/dumanemre3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary" height="35" width="45" /></a>  
   
-<img href="https://github.com/dumanemre3" height="40px" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" />
+<a href="https://github.com/dumanemre3" height="40px" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" />
 
 
 
