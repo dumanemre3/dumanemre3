@@ -19,6 +19,7 @@ I also work as a FreeLancer 🆓.
 
 ## Connect with Me:
 
+<p align="left"> 
 <img height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 
   <a href="https://instagram.com/dumanemre3" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="dumanemre3" height="40" width="45" /></a>
@@ -29,7 +30,7 @@ I also work as a FreeLancer 🆓.
   
 <img href="https://github.com/dumanemre3" height="40px" width="40px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" />
 
-
+</p>
 
 <br/>
 
