@@ -1,5 +1,5 @@
 ### Hi everyone,  👋
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=dumanemre3&show_icons=true&theme=radical)
+
 
 
 
@@ -75,6 +75,8 @@ I also work as a FreeLancer 🆓.
 [python]: https://www.python.org/
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=dumanemre3&show_icons=true&theme=radical)
 
 <!--
 **dumanemre3/dumanemre3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
