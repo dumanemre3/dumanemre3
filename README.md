@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<img align="right" alt="GIF" src="https://giphy.com/embed/Jrf7sINanJ3KWLQQDe" width="480" height="432" frameBorder="0" class="giphy-embed" allowFullScreen/>
+<img align="right" alt="GIF" src="https://giphy.com/embed/Jrf7sINanJ3KWLQQDe/code.gif?raw=true" width="480" height="432" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
 ## I'm a Student 👨‍🎓, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!
 - 🔭 I’m currently working on a large and special application.
