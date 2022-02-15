@@ -17,7 +17,7 @@ I also work as a FreeLancer 🆓.
 
 <br />
 
-## 📩 Connect with Me:
+## Connect with Me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="35px" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
@@ -26,7 +26,7 @@ I also work as a FreeLancer 🆓.
 <br/>
 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 <p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="47" height="47"/> </a> 
