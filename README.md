@@ -25,7 +25,7 @@ I also work as a FreeLancer 🆓.
 [<img align="left" height="35px" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />][github]
 <p align="left">
 <a href="https://linkedin.com/in/dumanemre3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary" height="30" width="40" /></a>  
-<a href="https://instagram.com/dumanemre3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="zaferhuzmeli" height="30" width="40" /></a>
+<a href="https://instagram.com/dumanemre3" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="zaferhuzmeli" height="35" width="40" /></a>
 </p>
 
 <p align="left">
