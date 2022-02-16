@@ -1,4 +1,4 @@
-# Hello everyone, My Name is Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to My GitHub Profile 🥳 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://giphy.com/embed/kyLYXonQYYfwYDIeZl" width="100%" height="100%" style="position:absolute" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/sesamestreet-sesame-street-50th-anniversary-kyLYXonQYYfwYDIeZl">via GIPHY</a></p>
+# Hello everyone, My Name is Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to My GitHub Profile 🥳 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
