@@ -5,10 +5,7 @@
 ## I'm a MSc Computer Engineer 🎓 Front-end Developer 👨🏼‍💻 Pianist 🎹 and Fitness Lover 💪🏼
 - 🔭 I work in the software industry as a react.js developer. 
 - 🌱 I am eager to enhance my programming skills to stay up to date in this progressive sector.
-- 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
-- 🤔 I’m looking for help with Flutter front-end developer
-- 🥅 2021 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️
+- ⚡  My hobbies are travelling abroad, playing the piano and going to the gym.
 
 
 ## ⏲ What we are doing now:
