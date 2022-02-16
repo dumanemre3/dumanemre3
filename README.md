@@ -9,7 +9,7 @@
 - 🏆 My hobbies are travelling abroad, playing the piano and going to the gym.
 
 
-## Connect with Me:
+## Connect with Me
 
 
   <p align="left"> 
