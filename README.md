@@ -1,4 +1,4 @@
-# Hello everyone, My Name is Emre 👋🏼 Welcome to My GitHub Profile 🥳
+# Hello everyone, My Name is Emre <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> 🏼 Welcome to My GitHub Profile 🥳
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
