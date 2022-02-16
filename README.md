@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## I'm a MSc Computer Engineer 👨‍🎓, Front-end Developer 🚀, Pianist ✍ and Fitness Lover 👨‍🎓!
+## I'm a MSc Computer Engineer, Front-end Developer, Pianist and Fitness Lover!
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other Flutter developer 👩‍💻 and mobile app designers 🎨
