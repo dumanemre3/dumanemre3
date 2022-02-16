@@ -8,6 +8,7 @@
 - 🚀 I am currently a react.js student at Patika.dev Bootcamp
 - 🏆 My hobbies are travelling abroad, playing the piano and going to the gym.
 
+<br/>
 
 ## Connect with Me:
 
