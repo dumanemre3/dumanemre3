@@ -20,12 +20,13 @@ I also work as a FreeLancer 🆓.
 ## Connect with Me:
 
 
-  
+  <p align="left"> 
+
   <a href="https://instagram.com/dumanemre3" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="dumanemre3" width="40" height="40"/> </a> 
-[<a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dumanemre3" width="40" height="40"/> </a>][gmail] 
+<a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dumanemre3" width="40" height="40"/> </a>
   <a href="https://linkedin.com/in/dumanemre3" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dumanemre3" width="35" height="45"/> </a> 
   <a href="https://github.com/dumanemre3" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" alt="dumanemre3" width="40" height="45" /> </a> 
-
+</p>
 
 
 
@@ -51,7 +52,7 @@ I also work as a FreeLancer 🆓.
 
 [instagram]: https://www.instagram.com/dumanemre3
 [linkedin]: https://www.linkedin.com/in/dumanemre3/
-[gmail]: mailto:emreson1997@gmail.com
+[gmail]: mailto:dumanemre3@hotmail.com
 [git]: https://git-scm.com/
 [github]: https://github.com/dumanemre3
 
