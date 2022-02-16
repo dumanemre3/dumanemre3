@@ -51,7 +51,7 @@ I also work as a FreeLancer 🆓.
 
 [instagram]: https://www.instagram.com/dumanemre3
 [linkedin]: https://www.linkedin.com/in/dumanemre3/
-[gmail]: mailto:dumanemre3@hotmail.com
+[gmail]: mailto:emreson1997@gmail.com
 [git]: https://git-scm.com/
 [github]: https://github.com/dumanemre3
 
