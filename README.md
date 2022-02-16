@@ -8,12 +8,11 @@
 - ⚡  My hobbies are travelling abroad, playing the piano and going to the gym.
 
 
-## ⏲ What we are doing now:
+## ⏲ What I am doing now:
 I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
 I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
 I also work as a FreeLancer 🆓.
 
-<br />
 
 ## Connect with Me:
 
