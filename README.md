@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="260" />
 
 ## I'm a MSc Computer Engineer 🎓 Front-end Developer 👨🏼‍💻 Pianist 🎹 Fitness Lover 💪🏼
-- 🔭 I work in the software industry as a react.js developer. 
-- 🌱 I am eager to enhance my programming skills to stay up to date in this progressive sector.
-- 🚀 I am currently a react.js student at Patika.dev Bootcamp
-- 🏆 My hobbies are travelling abroad, playing the piano and going to the gym.
+- I work in the software industry as a react.js developer. 
+- I am eager to enhance my programming skills to stay up to date in this progressive sector.
+- I am currently a react.js student at Patika.dev Bootcamp
+- My hobbies are travelling abroad, playing the piano and going to the gym.
 
 
 ## Connect with Me
