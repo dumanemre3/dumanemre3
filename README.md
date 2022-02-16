@@ -6,7 +6,7 @@
 - 🔭 I work in the software industry as a react.js developer. 
 - 🌱 I am eager to enhance my programming skills to stay up to date in this progressive sector.
 - 🔥 My hobbies are travelling abroad, playing the piano and going to the gym.
-- 🏆 My hobbies are travelling abroad, playing the piano and going to the gym.
+- 🏆 I am currently react.js trainee at Patika.dev
 
 
 
