@@ -1,6 +1,8 @@
 # Hi everyone, my name is Emre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21px"  height="23px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25"> 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="260" />
+![1_nFP5vJPVTEaimO8n4jPKgA](https://user-images.githubusercontent.com/65791804/150023241-568894fc-6684-40b8-8fb8-b0663e7572e2.gif)
+
 
 ## I'm a MSc Computer Engineer 🎓 Front-end Developer 👨🏼‍💻 Pianist 🎹 Body Building Lover 💪🏼
 - I work in the software industry as a React.js developer. 
