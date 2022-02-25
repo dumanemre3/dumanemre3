@@ -1,5 +1,5 @@
 
-# Hi everyone, my name is Emre <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" width="21px"  height="23px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25"> 
+# Hi everyone, my name is Emre <img src="https://github.com/KaganCanSit/KaganCanSit/blob/master/ImageFiles/Gif/baby-yoda-so-cute.gif" width="21px"  height="23px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" height="30"> 
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380" height="260" />
