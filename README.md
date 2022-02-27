@@ -6,7 +6,7 @@
 
 
 
-## I'm a MSc Computer Engineer 🎓 Front-end Developer 👨🏼‍💻 Pianist 🎹 Body Building Lover 💪🏼
+## I'm a MSc Computer Engineer 🎓 Front-end Developer 👨🏼‍💻 Pianist 🎹 Fitness Lover 💪🏼
 - I work in the software industry as a React.js developer. 
 - I am eager to enhance my programming skills to stay up to date in this progressive sector.
 - I am currently a React.js student at Patika.dev Bootcamp
