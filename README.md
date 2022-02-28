@@ -19,7 +19,7 @@
 
 
 
-  <a href="https://instagram.com/dumanemre3" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="dumanemre3" width="40" height="40" style="margin-right: 21em"/> </a> 
+  <a href="https://instagram.com/dumanemre3" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" alt="dumanemre3" width="40" height="40" style="margin-right: 21em; display:block"/> </a> 
 <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="dumanemre3" width="40" height="40"/> </a>
   <a href="https://linkedin.com/in/dumanemre3" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dumanemre3" width="35" height="45"/> </a> 
   <a href="https://github.com/dumanemre3" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/09/Octocat-1.svg" alt="dumanemre3" width="40" height="45" /> </a> 
