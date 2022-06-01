@@ -1,5 +1,5 @@
 
-# Hi everyone, my name is Emre 💻 width="31px"  height="33px" /> Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25"> 
+# Hi everyone, my name is Emre 💻 Welcome to my GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="25"> 
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="380" height="260" />
@@ -9,7 +9,7 @@
 ## I'm a MSc Computer Engineer 🎓 Front-end Developer 👨🏼‍💻 Pianist 🎹 Fitness Lover 💪🏼
 - I work in the software industry as a React.js developer. 
 - I am eager to enhance my programming skills to stay up to date in this progressive sector.
-- I completed React.js training in Patika.dev Bootcamp.
+- I am currently a React.js student at Patika.dev Bootcamp
 - My hobbies are travelling abroad, playing the piano and going to the gym.
 
 
