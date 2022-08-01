@@ -6,8 +6,8 @@
 
 
 
-## I'm a MSc Computer Engineer 🎓 Front-end Developer 👨🏼‍💻 Pianist 🎹 Fitness Lover 💪🏼
-- I work in the software industry as a React.js developer. 
+## I'm a MSc Computer Engineer 🎓 Frontend Developer 👨🏼‍💻 Pianist 🎹 Fitness Lover 💪🏼
+- I work at Enuygun.com as a Frontend Developer. 
 - I am eager to enhance my programming skills to stay up to date in this progressive sector.
 - I completed React.js training in Patika.dev E-Çözüm Bootcamp and Coderspace Wingie Enuygun Bootcamp.
 - My hobbies are travelling abroad, playing the piano and going to the gym.
